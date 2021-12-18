@@ -1,0 +1,2 @@
+import{k as e,o as n,j as o,f as s}from"./index.95fbdc71.js";const r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},t=s("path",{d:`M256,64v225.1c-12.6-7.3-27.1-11.7-42.7-11.7c-47.1,0-85.3,38.2-85.3,85.3s38.2,85.3,85.3,85.3s85.3-38.2,85.3-85.3V149.3\r
+	H384V64H256z`},null,-1);var d=e({name:"MdMusicalNote",render:function(a,i){return n(),o("svg",r,[t])}});export{d as M};
